@@ -182,6 +182,15 @@ CSSLint.addRule({
 				'.commentlist li ul.children li.byuser',
 				'.commentlist li ul.children li.comment',
 				'.commentlist li ul.children li.depth-1',
+				'.commentlist li ul.children li.depth-2',
+				'.commentlist li ul.children li.depth-3',
+				'.commentlist li ul.children li.depth-4',
+				'.commentlist li ul.children li.depth-5',
+				'.commentlist li ul.children li.depth-6',
+				'.commentlist li ul.children li.depth-7',
+				'.commentlist li ul.children li.depth-8',
+				'.commentlist li ul.children li.depth-9',
+				'.commentlist li ul.children li.depth-10',
 				'.commentlist li ul.children li.bypostauthor',
 				'.commentlist li ul.children li.comment-author-admin',
 				'#cancel-comment-reply',
@@ -206,7 +215,6 @@ CSSLint.addRule({
 			[
 				'li.categories', //category links
 				'li.cat-item',
-				'li.cat-item-1',
 				'li.current-cat',
 				'li.current-cat-parent',
 				'ul.children',
@@ -232,7 +240,6 @@ CSSLint.addRule({
 			[
 				'.pagenav',          /* outermost list item */
 				'.page_item',             /* any page item */
-				'.page-item-1',        /* specific page id */
 				'.current_page_item',     /* current page */
 				'.current_page_parent',  /* parent of current page */
 				'.current_page_ancestor', /* any ancestor of current page */
