@@ -42,7 +42,18 @@ CSSLint.addRule({
 			'.wp-caption',
 			'.wp-caption img',
 			'.wp-caption p.wp-caption-text',
-			'blockquote.left'
+			'blockquote.left',
+			'blockquote.right',
+			'.wp-smiley',
+			'.gallery dl',
+			'.gallery dt',
+			'.gallery dd',
+			'.gallery dl a',
+			'.gallery-caption',
+			'.size-full',
+			'.size-large',
+			'.size-medium',
+			'.size-thumbnail'
 		],
 		rule);
 	}
